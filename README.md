@@ -5,9 +5,9 @@
 # 安装
 
 ```js
-npm i seq
+npm i seq-fns
 
-yarn add seq
+yarn add seq-fns
 ```
 
 # 使用

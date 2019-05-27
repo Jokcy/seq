@@ -1,0 +1,16 @@
+{
+  "name": "seq",
+  "version": "0.0.1",
+  "description": "sequence function invoke",
+  "main": "index.js",
+  "author": "Jokcy",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --env node",
+    "test-watch": "jest --env node --watch"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "regenerator-runtime": "^0.13.2"
+  }
+}

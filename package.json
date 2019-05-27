@@ -12,5 +12,8 @@
   "devDependencies": {
     "jest": "^24.8.0",
     "regenerator-runtime": "^0.13.2"
+  },
+  "repository": {
+    "url": "https://github.com/Jokcy/seq"
   }
 }
